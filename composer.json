@@ -1,0 +1,17 @@
+{
+  "name": "kelvin/watchtower",
+  "description": "Lightweight Laravel monitoring",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Watchtower\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Watchtower\\WatchtowerServiceProvider"
+      ]
+    }
+  }
+}
