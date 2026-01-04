@@ -1,4 +1,4 @@
-# Laravel Watchtower 🔭
+# Laravel Watchtower 
 
 Lightweight monitoring for Laravel applications and VPS servers.
 
