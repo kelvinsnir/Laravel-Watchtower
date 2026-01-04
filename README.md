@@ -7,7 +7,7 @@ Just alerts when things go wrong.
 
 ---
 
-## ✨ Features
+## Features
 
 *  Alerts when new Laravel log errors appear
 *  Monitors Supervisor queue workers
@@ -16,9 +16,9 @@ Just alerts when things go wrong.
 
 ---
 
-## 📦 Installation
+##  Installation
 
-Install the package via Composer:
+Install the package via Composer after updating composer.json:
 
 ```bash
 composer require kelvin/watchtower
@@ -34,9 +34,9 @@ This command publishes the configuration file and shows the next required steps.
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
-### 1️⃣ Set Alert Email
+### 1️ Set Alert Email
 
 Add the following to your `.env` file:
 
@@ -92,7 +92,7 @@ Ensure this cron job exists on your server:
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 To test log monitoring:
 
@@ -107,7 +107,7 @@ An alert should be sent to the configured email.
 
 ---
 
-## 🚀 Why Watchtower?
+##  Why Watchtower?
 
 * No enterprise complexity
 * No external monitoring agents
@@ -117,7 +117,7 @@ An alert should be sent to the configured email.
 
 ---
 
-## 🛣 Roadmap
+## Roadmap
 
 * Disk usage monitoring
 * Server offline detection
@@ -126,6 +126,4 @@ An alert should be sent to the configured email.
 
 ---
 
-## 📄 License
 
-MIT
