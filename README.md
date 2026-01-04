@@ -9,10 +9,10 @@ Just alerts when things go wrong.
 
 ## ✨ Features
 
-* 🚨 Alerts when new Laravel log errors appear
-* ⚙️ Monitors Supervisor queue workers
-* 💾 Disk usage alerts (optional / coming soon)
-* 💓 Server heartbeat (optional / coming soon)
+*  Alerts when new Laravel log errors appear
+*  Monitors Supervisor queue workers
+* Disk usage alerts (optional / coming soon)
+* Server heartbeat (optional / coming soon)
 
 ---
 
